@@ -127,8 +127,8 @@ Data Analysis
 ---
 
 ## 📫 Contact
-LinkedIn: add your LinkedIn here  
-Email: add your email here
+LinkedIn: ![Nicolò Fadigà](https://www.linkedin.com/in/nicolò-fadigà/)
+Email: ![nicolofadiga@gmail.com](nicolofadiga@gmail.com)
 
 ---
 ⭐ Feel free to explore my repositories and projects.
