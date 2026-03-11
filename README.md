@@ -1,16 +1,112 @@
-## Hi there 👋
+# Hi, I'm Nicolò 👋
 
-<!--
-**HellNF/HellNF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student at the University of Trento  
+💻 Passionate about Artificial Intelligence, Computer Vision and Full-Stack Development  
+🚀 I enjoy building projects that combine software engineering, data and real-world applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🏋️ Squat Metrics
+AI system for analyzing squat performance using motion capture and computer vision.
+
+**Key features**
+- Motion capture data processing
+- Pose detection and tracking
+- Automatic performance metrics
+- Exercise quality analysis
+
+**Tech stack**
+Python · Computer Vision · Machine Learning · Motion Capture
+
+
+---
+
+### 🎬 WatchWise
+A social movie recommendation platform designed to discover films individually or with friends.
+
+**Key features**
+- Movie discovery using TMDB API
+- Personalized recommendations
+- Group movie selection
+- Social watching experience
+
+**Tech stack**
+Next.js · Fastify · MongoDB · REST APIs
+
+
+---
+
+### ⛓ Blockchain Land Registry
+A decentralized system for managing property ownership using smart contracts.
+
+**Key features**
+- Secure property registration
+- Multi-signature validation
+- Upgradeable smart contracts
+- Decentralized storage integration
+
+**Tech stack**
+Solidity · Ethereum · Smart Contracts · IPFS
+
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+Python  
+JavaScript / TypeScript  
+Solidity  
+Java  
+
+
+**Frameworks & Tools**
+
+Next.js  
+Fastify  
+Node.js  
+MongoDB  
+Git  
+
+
+**AI & Data**
+
+Machine Learning  
+Computer Vision  
+YOLO  
+Data Analysis  
+
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Machine Learning
+- Computer Vision pipelines
+- Scalable backend architectures
+- Data visualization
+
+
+---
+
+## 📫 Contact
+
+LinkedIn: add your LinkedIn here  
+Email: add your email here
+
+
+---
+
+⭐ Feel free to explore my repositories and projects.
